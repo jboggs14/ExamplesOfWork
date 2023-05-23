@@ -1,0 +1,5 @@
+﻿  main_driver.cpp
+  Queue.cpp
+  Generating Code...
+C:\Users\joshb\OneDrive\Desktop\Joshua Boggs II - Lab 6\Joshua Boggs II - Lab 6\Ex6.1(real)\Ex6.1(real)\Queue.cpp(78): warning C4715: 'queues::Queue::empty': not all control paths return a value
+  Ex6.1(real).vcxproj -> C:\Users\joshb\OneDrive\Desktop\Joshua Boggs II - Lab 6\Joshua Boggs II - Lab 6\Ex6.1(real)\Debug\Ex6.1(real).exe
